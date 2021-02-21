@@ -14,13 +14,9 @@ De pokemons haal je op via de <https://pokeapi.co/>.
 - Maak een kaartje aan, op basis van de Mapbox API.
   - Centreer de kaart rond je eigen accurate en up to date positie
   - Zet een custom marker (`pokeball`) op jouw positie
-  - Zet een aantal willekeurige pokemon op een willekeurige positie, binnen een straal van jouw positie op de kaart
-- Als je klikt op een marker zie je in een gewone alert informatie (vb de naam)
-
-Je mag deze broncode gebruiken, hoewel je ook van scratch kan starten
+  - Zet een aantal willekeurige pokemon-markers op een willekeurige positie, binnen een straal van jouw positie op de kaart
+- Als je klikt op een marker verschijnt een `Mapbox Popup` met daarin de naam en afstand van de respectievelijke pokemon.
+  Je mag deze broncode gebruiken, hoewel je ook van scratch kan starten
 
 **Screencast**
-<https://www.youtube.com/watch?v=4538HIQ_M1k&ab_channel=FrederickRoegiers>
-
-**Startcode**
-<https://github.com/pgm-3/drag-drop-game>
+<https://www.youtube.com/watch?v=r3MbmVri-iAk&ab_channel=FrederickRoegiers>
